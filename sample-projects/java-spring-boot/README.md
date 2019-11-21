@@ -1,4 +1,4 @@
-##### Steps:
+### Steps:
 
 Build the app.
 ```mvn clean package```
